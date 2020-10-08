@@ -1,16 +1,7 @@
 # dice_mobx
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Here is the snapshot
+<br>
+<img src="https://user-images.githubusercontent.com/43213197/95498778-f3e2d780-09c1-11eb-9c72-fea7fe9ed81a.jpeg" width = 190>
+<img src ="https://user-images.githubusercontent.com/43213197/95498787-f6ddc800-09c1-11eb-9290-811c848de007.jpeg" width = 190>
